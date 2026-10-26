@@ -1,0 +1,9 @@
+# C# / NeoModLoader build output
+bin/
+obj/
+*.dll
+*.pdb
+.vs/
+
+# Player config. May hold an API key. The tracked template is config.example.json.
+config.json

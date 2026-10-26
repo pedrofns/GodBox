@@ -1,0 +1,16 @@
+{
+  "name": "GodBox",
+  "GUID": "pedro.worldfall_ai_chat",
+  "author": "Pedro Nogueira",
+  "version": "0.8.2-alpha",
+  "description": "ALPHA — Seja Deus no WorldBox: converse por IA com qualquer criatura; religião de Deus, profetas, templos, livros sagrados, bênçãos e maldições. Requer Ollama (qwen2.5:7b) ou uma chave de API compatível com OpenAI. Worldfall opcional (primeira pessoa e Avatar de Deus só com ele). Interface e respostas em português.\nALPHA — Be God in WorldBox: AI chat with any creature; God's religion, prophets, temples, holy books, blessings and curses. Needs Ollama (qwen2.5:7b) or an OpenAI-compatible API key. Worldfall optional (first person and the Avatar of God need it). UI and replies in Portuguese.",
+  "iconPath": "icon.png",
+  "OptionalDependencies": [
+    "s3cond2.worldfall"
+  ],
+  "targetGameBuild": 719,
+  "ai_attribution": "ai_made",
+  "ai_check_code": true,
+  "ai_check_art": true,
+  "ai_check_translation": true
+}
